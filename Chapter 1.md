@@ -9,3 +9,7 @@ a finite sequence of instructions, each of which has a clear meaning and can be 
 
 - pseudocode:
   something that comes somewhere in between formatted English and computer program code, but is not runnable because certain details are ommitted.
+## 1.2 Fundamental questions about algorithms
+1. What is it supposed to do?
+2. Does it really do what it is supposed to do?
+3. How efficiently does it do it?
