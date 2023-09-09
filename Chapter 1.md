@@ -8,7 +8,8 @@
 
 ## 1.2 Fundamental questions about algorithms
 1. What is it supposed to do?
-    - Specification
+    - Specification: formalize the crucial details of the problem that the algorithm is intended        to solve
+        - it will have to specify how the inputs and outputs of the algorithm are related, though           there is no general requirement that the specication is complete or non-ambiguous
 2. Does it really do what it is supposed to do?
     - Verification
 3. How efficiently does it do it?
