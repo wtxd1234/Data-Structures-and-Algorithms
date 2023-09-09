@@ -8,9 +8,9 @@
 
 ## 1.2 Fundamental questions about algorithms
 1. What is it supposed to do?
-    - Specification: formalize the crucial details of the problem that the algorithm is intended to solve
+- Specification: formalize the crucial details of the problem that the algorithm is intended to solve
     - it will have to specify how the inputs and outputs of the algorithm are related, though           there is no general requirement that the specification is complete or non-ambiguous
 2. Does it really do what it is supposed to do?
-    - Verification: verifying whether the algorithm is indeed correct
+- Verification: verifying whether the algorithm is indeed correct
 3. How efficiently does it do it?
-    - Performance analysis: the efficiency or performance of an algorithm relates to the                resources required by it, such as how quick it will run, or how many ram it will use.
+- Performance analysis: the efficiency or performance of an algorithm relates to the                resources required by it, such as how quick it will run, or how many ram it will use.
