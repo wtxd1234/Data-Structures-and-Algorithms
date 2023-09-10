@@ -81,7 +81,10 @@ minimum(int n, float a[n]){
 
 
 * this is a kind of proof by induction:
-the invariant is true at the start of the loop, and is preserved by each iteration of the loop,
+the invariant is true at the start of the loop,
+and is preserved by each iteration of the loop,
 therefore it must be true at the end of the loop
+
+开头对，中间每个循环也对，那么结尾一定对
 
 ```
