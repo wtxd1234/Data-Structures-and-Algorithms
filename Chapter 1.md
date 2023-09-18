@@ -96,6 +96,8 @@ Multiplication乘法
 ![image](https://github.com/wtxd1234/Data-Structures-and-Algorithms/assets/41671135/a84878b6-4c4b-4b1d-99d9-6e753049ea7c)
 
     - Step 2: Let the two numbers 931 and 1234 as __a__ and __b__ respectively.Thus, Left-half of a __(al) = 09__, Right-half of a __(ar) = 31__, Left-half of b __(bl) = 12__ and Right-half of b __(br) = 34__.
+![image](https://github.com/wtxd1234/Data-Structures-and-Algorithms/assets/41671135/576a9086-1bb8-44a6-b115-6a341e9f5972)
+
 
     - Step 3:
 ![image](https://github.com/wtxd1234/Data-Structures-and-Algorithms/assets/41671135/e971b685-e89a-490a-ac2d-31ab9c657d3b)
