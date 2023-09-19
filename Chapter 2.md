@@ -1,2 +1,10 @@
 # Chapter 2
 ## Big O Notation
+Big O Notation
+- to describe the __performance or complexity__ of an algorithm
+  - __Time complexity__ – how much time it takes to run completely?
+  - __Space complexity__ – how much extra space does it require in the process?
+    - O(1) - An algorithm that will always execute at the same time (Constant) regardless of size
+    - O(n) - An algorithm that will grow linearly and in direct proportion to input data size.
+    - O(n2) - An algorithm whose performance is directly proportional to the square of the input data size. (usually nested loops)
+    - O(log N) - Logarithms
