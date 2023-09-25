@@ -10,3 +10,12 @@ Big O Notation
     - O(log N) - Logarithms
 
 ![aa88c2f1-f3ec-4138-a9b9-874a5bf000a2](https://github.com/wtxd1234/Data-Structures-and-Algorithms/assets/41671135/3155b58e-40f8-4c4c-86f8-798484791a92)
+
+## 6 Sorting Algorithms 
+
+1. Insertion Sort
+2. Selection Sort
+3. Bubble Sort
+4. Shell Sort
+5. Merge Sort
+6. Quick Sort
