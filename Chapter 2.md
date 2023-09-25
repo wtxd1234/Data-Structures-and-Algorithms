@@ -8,3 +8,5 @@ Big O Notation
     - O(n) - An algorithm that will grow linearly and in direct proportion to input data size.
     - O(n2) - An algorithm whose performance is directly proportional to the square of the input data size. (usually nested loops)
     - O(log N) - Logarithms
+
+![aa88c2f1-f3ec-4138-a9b9-874a5bf000a2](https://github.com/wtxd1234/Data-Structures-and-Algorithms/assets/41671135/3155b58e-40f8-4c4c-86f8-798484791a92)
