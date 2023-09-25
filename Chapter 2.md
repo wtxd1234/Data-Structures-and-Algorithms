@@ -13,7 +13,12 @@ Big O Notation
 
 ## 6 Sorting Algorithms 
 
-1. Insertion Sort
+1. Insertion Sort (一层一层scan同时排美美，一直重复到最后一层)
+
+    1. Every iteration迭代 of insertion sort the first element of the unsorted sub list from the input data is transferred to the sorted sub list by inserting it into the correct position.
+    2. Step 1 is repeated until no input element remain. 
+    3. The resulting list after k iteration has the properly where the first k entries are sorted.
+
 2. Selection Sort
 3. Bubble Sort
 4. Shell Sort
