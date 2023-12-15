@@ -53,3 +53,5 @@ DSA has numerous applications such as:
 Understanding DSA is crucial for developing efficient and effective solutions in software development and computer science. It’s a continuous learning process where one must practice solving different problems to get a deeper understanding of how and when to use different data structures and algorithms.
 
 This introduction forms the foundation upon which more specific and complex concepts of data structures and algorithms are built. As you delve deeper into the subject, you’ll encounter specific algorithms and data structures, each with their own set of use cases and theoretical underpinnings.
+
+[HOME](README.md)
