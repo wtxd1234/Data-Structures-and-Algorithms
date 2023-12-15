@@ -1,6 +1,6 @@
 # Table of Contents
-1. Introduction
-2. Sorting methods
+1. Introduction [a relative link](Introduction.md)
+2. Sorting Methods [a relative link](Sorting%20%Methods.md)
 3. Tree data structure
 4. Hashing, collision, open addressing, separate chaining
 5. Greedy Algorithms - Dijkstra, Prim, Kruskal’s
