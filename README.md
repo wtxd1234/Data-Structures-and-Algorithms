@@ -5,10 +5,10 @@
 4. [Hashing, collision, open addressing, separate chaining](Hashing.md)
 5. [Greedy Algorithms - Dijkstra, Prim, Kruskal’s](Greedy%20Algorithms.md)
 6. [Backtracking algorithms, branch and bound algorithms](Backtracking%20Algorithms.md)
-7. Assignment Problem - Hungarian method
-8. String manipulation - Brute force, Boyer- Moore, KMP, Rabin-karp
-9. Heap sort
-10. Huffman coding
+7. [Assignment Problem - Hungarian method](Assignment%20Problem.md)
+8. [String manipulation - Brute force, Boyer- Moore, KMP, Rabin-karp](String%20Manipulation.md)
+9. [Heap sort](Heap%20Sort.md)
+10. [Huffman coding](Huffman%20Coding.md)
 
 ## Introduction
 This typically covers the basic concepts of algorithms and data structures, their importance in computing, complexity analysis, and Big O notation.
