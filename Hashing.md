@@ -1,3 +1,5 @@
+[HOME](README.md)
+
 # Overview
 Hashing is a technique used to uniquely identify a specific object from a group of similar objects. In computer science, hashing refers to the process of mapping data of arbitrary size to data of fixed size (hash values, hash codes, or simply hashes).
 
