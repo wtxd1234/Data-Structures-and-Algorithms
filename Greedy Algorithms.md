@@ -1,3 +1,5 @@
+[HOME](README.md)
+
 # Overview
 Greedy algorithms are a class of algorithmic strategies that make the best possible choice at each step, with the hope of finding the global optimum. They are used in optimization problems where the goal is to find the best solution out of a set of possible solutions.
 
